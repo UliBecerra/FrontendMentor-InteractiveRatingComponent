@@ -12,7 +12,7 @@ body{
     min-height: 100vh;
     min-width: 100vh;
     
-}
+} 
 *, *::after, *::before{
     margin: 0;
     box-sizing: border-box;
@@ -35,7 +35,7 @@ article{
 background:  linear-gradient(0deg, hsl(213, 19%, 18%, 25%  ), hsl(213, 19%, 18%  ))
 ;
  max-width: 350px;
- border-radius: 14px;
+ border-radius: 20px;
  padding: 1rem;
 
  overflow: hidden;
@@ -79,7 +79,7 @@ button:hover{
 .star{
     border-radius: 20px;
     padding: 10px;
-    background-color: hsl(213, 19%, 18%);
+    background-color: hsl(213, 18%, 22%);
     width: 40px;
 }
 .qualify{
